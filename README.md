@@ -1,3 +1,29 @@
+<h1>Si quieres ver la pagina en accion puedes checar mi subdominio, al no estrar protegido por SSL no lo puedo colocar como
+redireccionamiento pues chrome lo impide,  la solucion seria comprar uno, pero no le veo sentido al ser solo un proyecto de presentacion,
+por lo cual te pido que si quieres verlo lo coloques tu manualmente por favor </h1>
+El link es el siguiente memcafe.iviweb.online
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
